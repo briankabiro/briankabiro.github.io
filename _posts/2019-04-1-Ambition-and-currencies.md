@@ -5,7 +5,7 @@ tags:
 
 > “Shoot for the stars and if you fall down you’ll land on the clouds” - Kanye West
 
-Becoming a millionaire is a benchmark that is appealing and a goal that many want to reach financially. It is a good thing but in countries with weaker countries, this definition needs to be redefined. 
+Becoming a millionaire is a benchmark that is appealing and a goal that many want to reach financially. It is a good thing but in countries with weaker currencies, this definition needs to be redefined. 
 
 That is, which currency are you looking at it from?
 
