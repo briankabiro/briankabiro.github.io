@@ -22,5 +22,5 @@ Hi, my name is Brian Lee Kabiro. I am a developer by day and a recovering conten
 
 [Developer](https://www.github.com/briankabiro). [Musician](https://soundcloud.com/user-22806810). [Thoughts](https://www.twitter.com/briankabiro).
 
-Feel free to contact me at briankabiro [@] pm [.] me.
+Feel free to contact me at briankabiro [at] pm [.] me.
 
