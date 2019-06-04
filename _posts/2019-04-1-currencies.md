@@ -1,9 +1,10 @@
 ---
 title: Currencies and Millionaires
+layout: article
 tags: 
 ---
 
-> “Shoot for the stars and if you fall down you’ll land on the clouds” - Kanye West
+> Reach for the stars, so if you fall, you land on a cloud. - Kanye West
 
 Becoming a millionaire is a benchmark that is appealing and a goal that many want to reach financially. It is a good thing but in countries with weaker currencies, this definition needs to be redefined. 
 
