@@ -1,7 +1,6 @@
 ---
 title: Currencies and Millionaires
 layout: article
-tags: 
 ---
 
 > Reach for the stars, so if you fall, you land on a cloud. - Kanye West

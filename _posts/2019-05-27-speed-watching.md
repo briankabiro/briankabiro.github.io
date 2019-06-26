@@ -1,8 +1,8 @@
 ---
 title: Speed Watching
 layout: article
-tags: 
 ---
+
 > “Create more than you consume”
 
 It’s been a year since I started speed watching videos and I noticed that recently I’ve been watching videos at 3x the speed.
