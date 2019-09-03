@@ -1,11 +1,9 @@
 ---
 title: The Case for Competition
-tags: 
+layout: article
 ---
 
 A while ago, the Kenyan government imposed a ban on public transport vehicles that weren't roadworthy according to a new set of rules. As there were a lot of cars that didn't meet the requirements, only a few were left to ply the routes.
-
-<!--more-->
 
 The cars that were compliant took advantage of the situation and hiked the fares. Although the issue was resolved in a few days, there was a lot of chaos during the short time. Many people were forced to walk to and from home. 
 
