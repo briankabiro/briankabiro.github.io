@@ -1,5 +1,5 @@
 ---
-title: copycat.co.ke
+title: Copycat Nation
 layout: article
 tags: Culture
 ---
