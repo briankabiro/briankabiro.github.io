@@ -25,6 +25,6 @@ Therefore, if all your code is hosted on one server, that can be described as 1-
 
 Let’s take the example of a modern application today that has an API, a React frontend and a database. These 3 layers will probably be split and run separately on 3 physical servers. Therefore, this is a 3-tier architecture.
 
-There you have it: layers are logical; tiers are physical. Hopefully, this question doesn’t bite you like it bit me and if it does, the interviewer comes through.
+There you have it: layers are logical; tiers are physical. Hopefully, this question doesn’t bite you like it bit me and if it does, the interviewer steps in and comes through.
 
 
